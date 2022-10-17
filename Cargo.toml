@@ -1,0 +1,9 @@
+[package]
+name = "eip712"
+version = "0.1.0"
+authors = ["Paul Vidal <u1d4lp@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+parity-crypto = { version = "0.9.0", default-features = false, features = ["publickey"] }
+primitive-types = "0.10.0"
