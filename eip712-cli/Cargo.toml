@@ -1,0 +1,9 @@
+[package]
+name = "eip712-cli"
+version = "0.1.0"
+authors = ["Paul Vidal <u1d4lp@gmail.com>"]
+edition = "2021"
+repository = "https://github.com/vidalpaul/eip712/src/eip712-cli"
+description = "EIP712 implementation"
+
+[dependencies]

@@ -1,12 +1,9 @@
-[workspace]
-members = [ "eip712-cli", "eip712-sol", "eip712-spec"]
-
 [package]
-name = "eip712"
+name = "eip712-spec"
 version = "0.1.0"
 authors = ["Paul Vidal <u1d4lp@gmail.com>"]
 edition = "2021"
-repository = "https://github.com/vidalpaul/eip712"
+repository = "https://github.com/vidalpaul/eip712/src/spec"
 description = "EIP712 implementation"
 
 [dependencies]
